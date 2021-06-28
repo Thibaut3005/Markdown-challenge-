@@ -1,10 +1,13 @@
 # Grégoire thibaut
 
-* ce qui compte c'est le plus important et ça, c'est l'essentiel *
-
-image pro
+>* ce qui compte c'est le plus important et ça, c'est l'essentiel *
 
 
+
+![alt text](https://github.com/Thibaut3005/arkdown-challenge-/blob/master/index.jpeg)
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
 | Birthday      | 30 may 1997 |
 | favorit color     | vantablack     |   
 | favorite food| baguette du fromage      |  
@@ -13,21 +16,21 @@ image pro
 ### Hobbies
 
 1. Movies 
-..* lord of the ring (extended version ofc)
+ ..* lord of the ring (extended version ofc)
 2. series
-..* the office 
-..* brooklyn 99
-..* games of throne ( RIP season 7&8)
+ ..* the office 
+ ..* brooklyn 99
+ ..* games of throne ( RIP season 7&8)
 3. video games 
-..* factorio
-..* the witcher 
-..* rocket league 
+  factorio
+ ..* the witcher 
+ ..* rocket league 
 4. reading 
-..* the witcher 
-..*metro 2033
-..* lord of the ring 
+ ..* the witcher 
+ ..*metro 2033
+ ..* lord of the ring 
 5. manga/anime
-..* Kingdom
+ ..* Kingdom
 
 
 ### you can always count on me when 
@@ -38,3 +41,4 @@ when you feel in the mood to do an "afond"
 
 ###### nope 
 
+<< lien stephanie || tibo || lien thomas >>
