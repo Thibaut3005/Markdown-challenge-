@@ -5,14 +5,17 @@
 
 ![alt text](https://github.com/Thibaut3005/arkdown-challenge-/blob/master/index.jpeg)
 
+## why do thing today when you can do it tomorow
 
-
-|        |           | 
+|     about me    |           | 
 | ------------- |:-------------:| 
 | Birthday      | 30 may 1997 |
 | favorit color     | vantablack     |   
 | favorite food| baguette du fromage      |  
-|Pinneapple on pizza | - [ ]yes <br/> - [x] no 
+|Pinneapple on pizza | 
+
+- [ ] yes
+- [x] no|
 
 ***
 
@@ -41,7 +44,7 @@
 
 when you feel in the mood to do an "afond"
 
-#### a funny story
+#### 
 
 ###### nope 
 
