@@ -5,17 +5,15 @@
 
 ![alt text](https://github.com/Thibaut3005/arkdown-challenge-/blob/master/index.jpeg)
 
-## why do thing today when you can do it tomorow
+## why do thing today when you can do it tomorow ? 
 
 |     about me    |           | 
 | ------------- |:-------------:| 
 | Birthday      | 30 may 1997 |
 | favorit color     | vantablack     |   
 | favorite food| baguette du fromage      |  
-|Pinneapple on pizza | 
+|Pinneapple on pizza | <ul><li> - [x] NO </li><li> - [ ] yes </li></ul>
 
-- [ ] yes
-- [x] no|
 
 ***
 
@@ -40,13 +38,13 @@
 
 ***
 
-### you can always count on me when 
+### you can always count on me when you feel in the mood to do an "afond"
 
-when you feel in the mood to do an "afond"
+#### WHen i was youn around 6 or 7, me and a friend mere amaze by fire so we decided to start one, we gathered some wood, some fire starter, a bottle of water in case of and a plastic box to put the fire in a "control space". We installed our little set up in a chrismas tree plantation to be out of eyesight. Little that we know that we know that fire an plastic are not best friends, thing get out of hand quickly and our little bottle didn't work  as expected so we panicked ans i ran home to lock myself in my room. Later i learned that the mother of my frien had to call the firefighter.
 
-#### 
 
-###### nope 
+
+###### TL;DR, I almost burn the spirit of chrismas down  
 
 ![alt text](https://github.com/Thibaut3005/arkdown-challenge-/blob/master/200.webp)
 
