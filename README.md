@@ -19,21 +19,21 @@
 ### Hobbies
 
 1. Movies 
- ..* lord of the ring (extended version ofc)
+   * lord of the ring (extended version ofc)
 2. series
-  ..* the office 
-  ..* brooklyn 99
-  ..* games of throne ( RIP season 7&8)
+  * the office 
+  * brooklyn 99
+  * games of throne ( RIP season 7&8)
 3. video games 
   factorio
-  ..* the witcher 
-  ..* rocket league 
+  * the witcher 
+  * rocket league 
 4. reading 
-  ..* the witcher 
-  ..*metro 2033
-  ..* lord of the ring 
+  * the witcher 
+  *metro 2033
+  * lord of the ring 
 5. manga/anime
-  ..* Kingdom
+  * Kingdom
 
 ***
 
@@ -47,4 +47,4 @@ when you feel in the mood to do an "afond"
 
 ![alt text](https://github.com/Thibaut3005/arkdown-challenge-/blob/master/200.webp)
 
-<< lien stephanie || tibo || [next](https://github.com/MrPinoBoy/markdown-challenge/blob/master/README.mdlien thomas) >>
+<< lien stephanie || tibo || [next >>](https://github.com/MrPinoBoy/markdown-challenge)
