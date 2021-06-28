@@ -40,11 +40,11 @@
 
 ### you can always count on me when you feel in the mood to do an "afond"
 
-#### WHen i was youn around 6 or 7, me and a friend mere amaze by fire so we decided to start one, we gathered some wood, some fire starter, a bottle of water in case of and a plastic box to put the fire in a "control space". We installed our little set up in a chrismas tree plantation to be out of eyesight. Little that we know that we know that fire an plastic are not best friends, thing get out of hand quickly and our little bottle didn't work  as expected so we panicked ans i ran home to lock myself in my room. Later i learned that the mother of my frien had to call the firefighter.
+#### WHen i was youn around 6 or 7, me and a friend mere amaze by fire so we decided to start one, we gathered some wood, some fire starter, a bottle of water in case of and a plastic box to put the fire in a "control space". We installed our little set up in a Christmas tree plantation to be out of eyesight. Little that we know that we know that fire an plastic are not best friends, thing get out of hand quickly and our little bottle didn't work  as expected so we panicked ans i ran home to lock myself in my room. Later i learned that the mother of my frien had to call the firefighter.
 
 
 
-###### TL;DR, I almost burn the spirit of chrismas down  
+###### TL;DR, I almost burn the spirit of Christmas down  
 
 ![alt text](https://github.com/Thibaut3005/arkdown-challenge-/blob/master/200.webp)
 
