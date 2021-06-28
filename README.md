@@ -12,14 +12,14 @@
 | Birthday      | 30 may 1997 |
 | favorit color     | vantablack     |   
 | favorite food| baguette du fromage      |  
-|Pinneapple on pizza | [ ]yes <br/> [x] no 
+|Pinneapple on pizza | - [ ]yes <br/> - [x] no 
 
 ***
 
 ### Hobbies
 
 1. Movies 
-   * lord of the ring (extended version ofc)
+* The Lord of the Rings (extended version ofc)
 2. series
   * the office 
   * brooklyn 99
@@ -31,7 +31,7 @@
 4. reading 
   * the witcher 
   *metro 2033
-  * lord of the ring 
+  * The Lord of the Rings
 5. manga/anime
   * Kingdom
 
@@ -47,4 +47,4 @@ when you feel in the mood to do an "afond"
 
 ![alt text](https://github.com/Thibaut3005/arkdown-challenge-/blob/master/200.webp)
 
-<< lien stephanie || tibo || [next >>](https://github.com/MrPinoBoy/markdown-challenge)
+[<< previous](https://github.com/StephanieAn/markdown-challenge) || tibo || [next >>](https://github.com/MrPinoBoy/markdown-challenge)
